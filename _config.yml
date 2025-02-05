@@ -1,3 +1,4 @@
 title: "BI Factory Pro"
 description: "Tools for automating the creation and modification of Power BI reports and more 🚀"
 theme: jekyll-theme-minimal
+is_user_page: false
